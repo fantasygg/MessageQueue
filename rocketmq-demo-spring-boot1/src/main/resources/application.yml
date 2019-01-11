@@ -1,0 +1,10 @@
+rocketmq:
+    # \u751F\u4EA7\u8005\u914D\u7F6E
+  producer:
+    groupName: demo-group
+    namesrvAddr: 192.168.1.162:9876
+    default: true
+  consumer:
+    groupName: demo-group
+    namesrvAddr: 192.168.1.162:9876
+    default: true

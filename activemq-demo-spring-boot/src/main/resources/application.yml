@@ -1,0 +1,5 @@
+spring:
+  activemq:
+    user: admin
+    password: admin
+    broker-url: failover:(tcp://localhost:61616)
