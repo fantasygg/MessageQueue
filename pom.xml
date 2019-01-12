@@ -16,6 +16,8 @@
         <module>rocketmq-demo</module>
         <module>rocketmq-demo-spring-boot1</module>
         <module>rocketmq-demo-spring-boot2</module>
+        <module>kafka-demo</module>
+        <module>kafka-demo-spring-boot</module>
     </modules>
 
 </project>
